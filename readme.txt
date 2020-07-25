@@ -4,3 +4,4 @@ Git has a multable index called stage.
 Git tracks chages of files.1
 2
 Creating a new branch is quick.
+creating a new branch is quick and simple
