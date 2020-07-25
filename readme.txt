@@ -6,3 +6,4 @@ Git tracks chages of files.1
 Creating a new branch is quick.
 creating a new branch is quick and simple
 feature 1
+add merge to dev
